@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jkilungya
 - 👀 I’m interested in ...Automation
 - 🌱 I’m currently learning ...linux administration 
-- 💞️ I’m looking to collaborate on ...CLI
 - 📫 How to reach me ...jmwaki@gmail.com
 
 <!---
